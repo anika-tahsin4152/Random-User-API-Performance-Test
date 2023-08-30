@@ -11,6 +11,9 @@
 ## Pre-Requisite
 -jdk-11.0.18 (java)
 
+## How to run this project:
+- Clone this project
+
 ## Load Test Report
 -![Screenshot 2023-08-30 165620](https://github.com/anika-tahsin4152/Random-User-API-Performance-Test/assets/73738319/ccfcd539-5dd2-40fb-b12e-f1bb967315cc)
 ## StressTest Report
