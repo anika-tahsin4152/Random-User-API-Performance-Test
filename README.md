@@ -20,4 +20,5 @@
 ## StressTest Report
 -![Screenshot 2023-08-30 165747](https://github.com/anika-tahsin4152/Random-User-API-Performance-Test/assets/73738319/d33a9184-614d-4f93-bd43-8b0c3f32c478)
 ## Html Report
--![jmeter1](https://github.com/anika-tahsin4152/Random-User-API-Performance-Test/assets/73738319/25ac9a7c-ded9-4913-9196-7888519c7267)
+-![image](https://github.com/anika-tahsin4152/Random-User-API-Performance-Test/assets/73738319/a12af575-1bd3-47aa-a0d0-11af1ef0cf68)
+
